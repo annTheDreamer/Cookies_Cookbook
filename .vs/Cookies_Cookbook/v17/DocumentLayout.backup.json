@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\user interface\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\user interface\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\storerecipesinjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\storerecipesinjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\storerecipesinjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\storerecipesinjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\user interface\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\user interface\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\storerecipesastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\storerecipesastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|c:\\users\\anast\\desktop\\c# course\\2nd course - instructor_krystyna_slusarczyk\\assignments - my solutions\\cookies_cookbook\\cookies_cookbook\\data access\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC496C07-1F73-47FD-A6F3-1248ADC1F92D}|Cookies_Cookbook\\Cookies_Cookbook.csproj|solutionrelative:cookies_cookbook\\data access\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Ingredients\\Ingredient.cs",
-              "RelativeDocumentMoniker": "Cookies_Cookbook\\Ingredients\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Ingredients\\Ingredient.cs",
-              "RelativeToolTip": "Cookies_Cookbook\\Ingredients\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\IFileProcessor.cs",
+              "RelativeDocumentMoniker": "Cookies_Cookbook\\Data Access\\IFileProcessor.cs",
+              "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\IFileProcessor.cs",
+              "RelativeToolTip": "Cookies_Cookbook\\Data Access\\IFileProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:17:37.824Z",
+              "WhenOpened": "2025-01-09T17:46:06.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UI.cs",
               "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\User Interface\\UI.cs",
               "RelativeDocumentMoniker": "Cookies_Cookbook\\User Interface\\UI.cs",
               "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\User Interface\\UI.cs",
               "RelativeToolTip": "Cookies_Cookbook\\User Interface\\UI.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T17:46:27.958Z",
               "EditorCaption": ""
@@ -69,53 +69,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "StoreRecipesAsText.cs",
+              "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
+              "RelativeDocumentMoniker": "Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
+              "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
+              "RelativeToolTip": "Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:22:52.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StoreRecipesInJSON.cs",
               "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesInJSON.cs",
               "RelativeDocumentMoniker": "Cookies_Cookbook\\Data Access\\StoreRecipesInJSON.cs",
               "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesInJSON.cs",
               "RelativeToolTip": "Cookies_Cookbook\\Data Access\\StoreRecipesInJSON.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T14:43:23.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Program.cs",
               "RelativeDocumentMoniker": "Cookies_Cookbook\\Program.cs",
               "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Program.cs",
               "RelativeToolTip": "Cookies_Cookbook\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T16:46:31.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StringsTextualRepository.cs",
               "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StringsTextualRepository.cs",
               "RelativeDocumentMoniker": "Cookies_Cookbook\\Data Access\\StringsTextualRepository.cs",
               "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StringsTextualRepository.cs",
               "RelativeToolTip": "Cookies_Cookbook\\Data Access\\StringsTextualRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T14:13:00.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StoreRecipesAsText.cs",
-              "DocumentMoniker": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
-              "RelativeDocumentMoniker": "Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
-              "ToolTip": "C:\\Users\\anast\\Desktop\\C# Course\\2nd Course - Instructor_Krystyna_Slusarczyk\\Assignments - My Solutions\\Cookies_Cookbook\\Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
-              "RelativeToolTip": "Cookies_Cookbook\\Data Access\\StoreRecipesAsText.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T14:22:52.3Z",
               "EditorCaption": ""
             }
           ]

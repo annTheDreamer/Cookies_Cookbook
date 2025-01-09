@@ -18,6 +18,13 @@ namespace Cookies_Cookbook.User_Interface
 
         public List<int> selectedIngredients = new List<int>();
 
+        public void AddRecipe()
+        {
+            PrintCreateNewRecipeList();
+            AddIngredient();
+            PrintAddedRecipe();
+        }
+
         public void PrintCreateNewRecipeList()
         {
             Console.WriteLine();

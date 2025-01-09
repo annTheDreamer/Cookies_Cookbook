@@ -9,24 +9,47 @@ namespace Cookies_Cookbook
         {
             const string fileName = "recipes";
             //choose type of file recipes should be saved in
-            string filePath = $"{fileName}.{FileFormat.json}";
+            string filePath = $"{fileName}.{FileFormat.txt}";
+
+            // Extract the file extension
+            string fileExtension = Path.GetExtension(filePath).ToLower();
 
             var PrintMessage = new UI();
-            var WriteToTextFile = new StoreRecipesAsText();
-            var WriteToJSON = new StoreRecipesInJSON();
 
-            //check for previously saved recipes
-            //List<List<string>> recipes = StringsTextualRepository.Read(filePath); //reading from text file
-            List<List<string>> recipes = WriteToJSON.ReadFromJSON(filePath);
-            PrintMessage.PrintAllExistingRecipes(recipes);
+            //variable for saving all existing recipes
+            List<List<string>> recipes = new List<List<string>>();
 
-            //print messages and instructions for the user
+            switch (fileExtension)
+            {
+                case ".txt":
+                    var TextFile = new StoreRecipesAsText();
 
-            PrintMessage.PrintCreateNewRecipeList();
-            PrintMessage.AddIngredient();
-            PrintMessage.PrintAddedRecipe();
-            //WriteToTextFile.WriteToFile(filePath, PrintMessage.SelectedIngredientsAsString());
-            WriteToJSON.WriteToJSON(filePath, PrintMessage.SelectedIngredientsAsString());
+                    //check for previously saved recipes
+                    recipes = TextFile.Read(filePath);
+                    PrintMessage.PrintAllExistingRecipes(recipes);
+
+                    //print messages and instructions for the user
+                    PrintMessage.AddRecipe();
+
+                    //write new recipe to file
+                    TextFile.Write(filePath, PrintMessage.SelectedIngredientsAsString());
+                    break;
+                case ".json":
+                    var JSON = new StoreRecipesInJSON();
+
+                    //check for previously saved recipes
+                    recipes = JSON.Read(filePath);
+                    PrintMessage.PrintAllExistingRecipes(recipes);
+
+                    //print messages and instructions for the user
+                    PrintMessage.AddRecipe();
+
+                    //write new recipe to file
+                    JSON.Write(filePath, PrintMessage.SelectedIngredientsAsString());
+                    break;
+                default:
+                    break;
+            }
         }
     }
 

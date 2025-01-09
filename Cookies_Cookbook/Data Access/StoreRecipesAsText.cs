@@ -1,10 +1,21 @@
 ﻿namespace Cookies_Cookbook.Data_Access
 {
-    public class StoreRecipesAsText
+    public class StoreRecipesAsText : IFileProcessor
     {
-        public void WriteToFile(string filePath, List<string> selectedIngredients)
+        private readonly string Separator = ",";
+
+        public List<List<string>> Read(string filePath)
         {
-            StringsTextualRepository.Write(filePath, selectedIngredients);
+            var fileContents = File.ReadAllLines(filePath);
+            return fileContents
+                .Select(line => line.Split(new[] { Separator }, StringSplitOptions.None).ToList())
+                .ToList();
         }
+
+        public void Write(string filePath, List<string> selectedIngredients) =>
+            File.AppendAllText(
+                filePath,
+                string.Join(Separator, selectedIngredients) + Environment.NewLine
+            );
     }
 }

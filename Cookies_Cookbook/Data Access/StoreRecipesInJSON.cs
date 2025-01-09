@@ -2,15 +2,15 @@
 
 namespace Cookies_Cookbook.Data_Access
 {
-    internal class StoreRecipesInJSON
+    public class StoreRecipesInJSON : IFileProcessor
     {
-        public void WriteToJSON(string filepath, List<string> selectedIngredientsIDs)
+        public void Write(string filepath, List<string> selectedIngredientsIDs)
         {
             var asJson = JsonSerializer.Serialize(selectedIngredientsIDs);
             File.AppendAllText(filepath, asJson + Environment.NewLine);
         }
 
-        public List<List<string>> ReadFromJSON(string filepath)
+        public List<List<string>> Read(string filepath)
         {
             List<List<string>> recipesIDs = new List<List<string>>();
             foreach (var line in File.ReadLines(filepath))

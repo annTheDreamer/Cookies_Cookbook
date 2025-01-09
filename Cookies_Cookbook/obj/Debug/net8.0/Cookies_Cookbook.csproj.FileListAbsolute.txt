@@ -12,3 +12,4 @@ C:\Users\anast\Desktop\C# Course\2nd Course - Instructor_Krystyna_Slusarczyk\Ass
 C:\Users\anast\Desktop\C# Course\2nd Course - Instructor_Krystyna_Slusarczyk\Assignments - My Solutions\Cookies_Cookbook\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.pdb
 C:\Users\anast\Desktop\C# Course\2nd Course - Instructor_Krystyna_Slusarczyk\Assignments - My Solutions\Cookies_Cookbook\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.genruntimeconfig.cache
 C:\Users\anast\Desktop\C# Course\2nd Course - Instructor_Krystyna_Slusarczyk\Assignments - My Solutions\Cookies_Cookbook\Cookies_Cookbook\obj\Debug\net8.0\ref\Cookies_Cookbook.dll
+C:\Users\anast\Desktop\C# Course\2nd Course - Instructor_Krystyna_Slusarczyk\Assignments - My Solutions\Cookies_Cookbook\Cookies_Cookbook\obj\Debug\net8.0\Cookies_Cookbook.sourcelink.json
