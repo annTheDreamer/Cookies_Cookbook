@@ -1,4 +1,5 @@
 ﻿using Cookies_Cookbook.Data_Access;
+using Cookies_Cookbook.Data_Transformation;
 using Cookies_Cookbook.User_Interface;
 
 namespace Cookies_Cookbook
@@ -9,7 +10,7 @@ namespace Cookies_Cookbook
         {
             const string fileName = "recipes";
             //choose type of file recipes should be saved in
-            string filePath = $"{fileName}.{FileFormat.txt}";
+            string filePath = $"{fileName}.{FileFormat.json}";
 
             // Extract the file extension
             string fileExtension = Path.GetExtension(filePath).ToLower();
@@ -32,7 +33,7 @@ namespace Cookies_Cookbook
                     PrintMessage.AddRecipe();
 
                     //write new recipe to file
-                    TextFile.Write(filePath, PrintMessage.SelectedIngredientsAsString());
+                    TextFile.Write(filePath, TransformData.ListToString());
                     break;
                 case ".json":
                     var JSON = new StoreRecipesInJSON();
@@ -45,7 +46,7 @@ namespace Cookies_Cookbook
                     PrintMessage.AddRecipe();
 
                     //write new recipe to file
-                    JSON.Write(filePath, PrintMessage.SelectedIngredientsAsString());
+                    JSON.Write(filePath, TransformData.ListToString());
                     break;
                 default:
                     break;

@@ -6,6 +6,10 @@
 
         public List<List<string>> Read(string filePath)
         {
+            if (!File.Exists(filePath))
+            {
+                return new List<List<string>>();
+            }
             var fileContents = File.ReadAllLines(filePath);
             return fileContents
                 .Select(line => line.Split(new[] { Separator }, StringSplitOptions.None).ToList())

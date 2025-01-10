@@ -12,6 +12,11 @@ namespace Cookies_Cookbook.Data_Access
 
         public List<List<string>> Read(string filepath)
         {
+            if (!File.Exists(filepath))
+            {
+                return new List<List<string>>();
+            }
+
             List<List<string>> recipesIDs = new List<List<string>>();
             foreach (var line in File.ReadLines(filepath))
             {
